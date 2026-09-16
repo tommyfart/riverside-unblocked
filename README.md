@@ -6,6 +6,13 @@ https://mathclassroom.pages.dev/
 https://mathclassroom.pages.dev/
 https://mathclassroom.pages.dev/
 https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
+https://mathclassroom.pages.dev/
 
 top 5 reasons why this is best exploit:
 1. teachers cant see ur screen on goguardian it will say ur offline so w opsec
@@ -13,6 +20,8 @@ top 5 reasons why this is best exploit:
 3. best ways to play games
 4. yes
 5. w opsec
+
+# exploit begin
 
 1. turn on chrome and DO NOT sign in.
 2. click on apps on the bottom corner
